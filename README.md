@@ -2,6 +2,6 @@
 
 ### analysis.mlx for live demo
 ### analysis.m as a single code file
+
 ##
-### csv files are raw data from sensors
-##### file name with (1) indicates other's sensor (ID ending with 439)
+
